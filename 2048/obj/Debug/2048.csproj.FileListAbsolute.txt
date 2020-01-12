@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.exe
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.pdb
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.exe
+c:\users\admin\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.pdb
+E:\программирование\2048\2048\bin\Debug\2048.exe.config
+E:\программирование\2048\2048\obj\Debug\2048.exe
+E:\программирование\2048\2048\obj\Debug\2048.pdb
+E:\программирование\2048\2048\bin\Debug\2048.exe
+E:\программирование\2048\2048\bin\Debug\2048.pdb
+E:\программирование\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
